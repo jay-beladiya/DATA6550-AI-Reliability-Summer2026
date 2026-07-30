@@ -5,9 +5,7 @@
 **Team Members**
 - Tirth Laheri
 - Jay Beladiya
-
-**Date:** Week A
-
+  
 ---
 
 ## Meeting Summary
